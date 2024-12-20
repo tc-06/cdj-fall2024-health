@@ -7,5 +7,5 @@ This repository showcases my individual work in a group project at @CornellDataJ
 - Created and analyzed visualizations between IC50 values and AUC (Area Under Curve) values
 - Built a Deep Neural Network model with TensorFlow to analyze input (Cancer Cell Line/Drug Type) versus output (IC50 value)
 - Analyzed model performance using several metrics and visualizations
-- 
+  
 **Dataset**: [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.kaggle.com/datasets/samiraalipour/genomics-of-drug-sensitivity-in-cancer-gdsc?resource=download)
